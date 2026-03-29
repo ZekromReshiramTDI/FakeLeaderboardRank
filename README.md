@@ -31,7 +31,7 @@ In this mod's settings, you can find the options you need to customize the leade
 - 🏆 Top 5,000
 - 🏆 Top 10,000
 
-🏆 All
+- 🏆 All
 
 > [!TIP]
 > *You can find a shortcut to the mod settings in your profile's settings pop-up.*
